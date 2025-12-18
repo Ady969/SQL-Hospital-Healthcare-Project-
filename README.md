@@ -1,4 +1,5 @@
 # SQL Healthcare Data Analysis Project
+<img width="1536" height="1024" alt="SQL healthcare data analysis banner" src="https://github.com/user-attachments/assets/2b1fe84f-1a36-4f7b-8265-7ba98dd3b377" />
 
 ## 📌 Project Overview
 This project focuses on analyzing healthcare data using SQL to extract meaningful insights related to patients, doctors, departments, and medical expenses.
